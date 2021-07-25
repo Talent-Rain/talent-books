@@ -1,0 +1,16 @@
+{
+  "name": "talent-books",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^0.15.6",
+    "vuepress": "^1.8.2"
+  },
+  "scripts": {
+    "start": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs",
+    "start-vue": "vuepress dev docs"
+  }
+}
