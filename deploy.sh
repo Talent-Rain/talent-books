@@ -1,12 +1,4 @@
 #!/usr/bin/env sh
-###
- # @Author: your name
- # @Date: 2021-07-25 16:44:07
- # @LastEditTime: 2021-07-25 16:48:15
- # @LastEditors: your name
- # @Description: In User Settings Edit
- # @FilePath: /talent-books/deploy.sh
-### 
 
 # 确保脚本抛出遇到的错误
 set -e
